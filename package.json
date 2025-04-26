@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "emergency-system",
+  "main": "yes",
+  "scripts": {
+    "start": "node login/main.js",
+    "build": "echo 'Build process goes here'",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "gchandani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
